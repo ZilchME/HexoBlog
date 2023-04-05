@@ -2,11 +2,11 @@
 title: Hello World
 top: true
 ---
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
-
+**部分组件的CDN被墙（尤其是公式渲染），建议使用魔法访问本网站以获得最佳体验**（虽然体验也不会有多好就是）
+文章随缘更新
  <!-- more -->
 
-## Quick Start
+## Hexo的常用操作
 
 ### Create a new post
 
