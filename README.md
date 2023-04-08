@@ -34,6 +34,8 @@ sudo npm install
 
 ### 本地部署
 
+```sh
 hexo clean
 hexo g
 hexo s
+```
